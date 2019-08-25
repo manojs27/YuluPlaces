@@ -12,4 +12,6 @@
 
 
 
-Note : Screen Shots are available in the Screenshot folder. 
+Note : 
+1. apk is available in the Repository by name app-debug.apk
+2.Screen Shots are available in the Screenshot folder. 
